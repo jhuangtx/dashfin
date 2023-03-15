@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+
+#stock_dropdown .VirtualizedSelectOption { 
+    background-color: black;  /*to change the background color of the options*/
+    color: white; /*to change the color of the options */
+    }
+
+#stock_dropdown .VirtualizedSelectFocusedOption { 
+    background-color: grey;  /*to change the background color of the hovered option*/
+    color: white; /*to change the color of the options */
+    }
+
+#stock_dropdown .Select-control { 
+    background-color: black;  /*to change the background color of the current input*/
+    }
+
+#stock_dropdown .Select-value-label { 
+    color: white; /*to change the color of the text in the current input */
+    }
+
+#stock_dropdown .Select input{ 
+    color: white; /*to change the color of the text in the current input */
+    }
+    
+#stock_dropdown .Select__no-options { 
+    background-color: black; /*to change the background color when no results match */
+    color: white; /*to change the color of the text when no results match */
+    }
+        
+#graph_type { 
+    color: white; /*to change the color of the text */
+     }
