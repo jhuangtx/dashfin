@@ -7,6 +7,7 @@ import config
 import nyseholidays as nh
 import datetime
 import boto3
+import sqlite3
 
 connection = sqlite3.connect(config.DB_FILE)
 
